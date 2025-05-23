@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthd1631&label=Profile%20views&color=0e75b6&style=flat" alt="parthd1631" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthd1631" alt="parthd1631" /></a> </p>
-
 - 🔭 I’m currently working on **FocusSense**
 
 - 🌱 I’m currently learning **how to bring AI features into iOS apps using Core ML and Swift. I’m also exploring how to build smarter, full-stack tools that work smoothly across devices.**
