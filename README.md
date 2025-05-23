@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">I'm a rising junior at Georgia Tech majoring in Computer Science, with a passion for iOS development, full-stack engineering, and machine learning. I enjoy building impactful applications that blend intuitive design with intelligent systems. I’m especially driven by opportunities to build tools that are not just functional, but transformative in how people learn, work, or connect.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthd1631&label=Profile%20views&color=0e75b6&style=flat" alt="parthd1631" /> </p>
-
 - 🔭 I’m currently working on **FocusSense**
 
 - 🌱 I’m currently learning **how to bring AI features into iOS apps using Core ML and Swift. I’m also exploring how to build smarter, full-stack tools that work smoothly across devices.**
